@@ -1,4 +1,4 @@
-# Fast-Triangle-Triangle-Intersection-Algorithm
+# An intersection algorithm 
 Detecting the intersection between two triangles in 3-Dimensional space and determining the intersection points, edges and area.
 
 Used when :  A shape (made up of small triangles) collide with an another shape (also, made up of small triangles) in 3D space. Used for simulation of colliding objects and getting intersections points (if collision occured) and detection of collision. 
