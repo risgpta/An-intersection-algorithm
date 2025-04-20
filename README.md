@@ -5,3 +5,6 @@ Used when :  A shape (made up of small triangles) collide with an another shape 
 
 More Research : Concept of AABB (Axis-Aligned Bounding Box) can be also used. 
 And many other boxes also exist.  
+
+
+Bonus: Added a visualizer: https://github.com/risgpta/Ant-Colony-Optimisation
